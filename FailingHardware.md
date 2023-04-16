@@ -42,6 +42,7 @@ The .cpp files did not contain the text "new", "delete" or "class" and there wer
 - write another Python script
     - change the file extensions .cpp ⇒ .c and .hpp ⇒ .h
     - tweak #include statements with regex to reflect the header file name change
+    - eliminate the redundant "near" keyword (used for some memory models on 16 bit Windows).
 
 The next step was to compile files. Simplified…
 
