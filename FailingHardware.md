@@ -58,7 +58,7 @@ The next step was to run the executables…
 char am_pm[2];
 strcpy(am_pm, "am");
 ```
-This was the only crash. Someone had not understood C strings and sentinels, more than just this once.
+This was the only crash. Someone had not understood C strings and sentinels. More than just this once.
 
 The code was good enough, the executables ran, and the job was complete.
 
