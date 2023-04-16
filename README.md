@@ -74,3 +74,10 @@ or to run the executable without having bother to look for it…
 ```sh
 zig build run
 ```
+
+
+## Tales Told
+
+Zig was used here as it was a single file download, the alternatives suggested were regarded as bloatware.
+- [Failing Hardware](./FailingHardware.md)
+
